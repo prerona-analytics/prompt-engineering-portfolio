@@ -1,0 +1,1 @@
+For each hypothesis, suggest statistical validation techniques using Python (Pandas).
