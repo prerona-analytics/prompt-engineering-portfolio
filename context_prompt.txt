@@ -1,3 +1,0 @@
-You are a data analyst. Given the dataset schema and sample rows, understand the business problem: churn analysis.
-Schema: customerID, tenure, MonthlyCharges, Contract, InternetService, PaymentMethod, Churn
-Task: Identify potential drivers of churn.
