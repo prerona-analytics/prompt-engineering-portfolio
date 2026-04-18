@@ -1,0 +1,13 @@
+# Prompt Logs
+
+## Hypothesis Prompt
+"Suggest churn drivers based on schema"
+
+## LLM Output
+- Age
+- Income
+- Tenure
+
+## Human Validation
+Income → weak correlation 
+Tenure → strong correlation 
