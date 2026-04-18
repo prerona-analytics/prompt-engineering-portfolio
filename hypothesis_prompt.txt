@@ -1,1 +1,0 @@
-Based on the schema and sample data, suggest 5 hypotheses for churn drivers. Be concise and business-oriented.
